@@ -1,0 +1,18 @@
+body{
+	color:red;
+}
+h1{
+	text-align:center;
+}
+input{
+	text-align:center;
+	font-size:20px;
+}
+input:hover{
+	background:lightblue;
+	color:red;
+}
+form{
+	margin-left:40%;
+	margin-top:10%;
+}
